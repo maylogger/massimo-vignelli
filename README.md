@@ -31,7 +31,7 @@ Vignelli worked firmly within the Modernist tradition, and focused on simplicity
 
 維涅里的設計以貫徹現代主義見稱，作品經常運用幾何圖形，展現簡明的設計風格。
 
-> ### jo:
+> **jo:**
 > 翻譯得有點悖離原意了，請高手修改。
 
 **圖解**
