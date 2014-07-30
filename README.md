@@ -8,19 +8,15 @@
 - jeter chou
 - jo chiu
 
-
-> ### evenwu:
+> **evenwu:**
 > 名字要不要翻譯為中文呢？
 > 暫定馬西莫·維格納利
 > 參考到 http://zh.wikipedia.org/wiki/史蒂夫·乔布斯 都有翻譯為中文
 
-> ### jo:
+> **jo:**
 > 1. 去年遊牧影展譯為馬西摩·維內利，我覺得姓的翻法更貼近義文發音，可以參考。
 > 2. 以「馬西莫·維格涅里」出現在維基百科 2014 年 5 月逝世人物列表中。
 > 3. 我目前認為「馬西莫·維涅里」最為貼近，字意也貼近義大利文姓氏翻譯，就先修改了。:P
-
-
-
 
 Massimo Vignelli (January 10, 1931 – May 27, 2014) was a designer who did work in a number of areas ranging from package design to houseware design to furniture design to public signage to showroom design through Vignelli Associates, which he co-founded with his wife, Lella.[1][2] He said, "If you can design one thing, you can design everything," and this is reflected in his broad range of work.[3]
 
@@ -178,5 +174,8 @@ Massimo and Lella Vignelli agreed to donate the entire archive of their design w
 
 ## 簽到留言
 
-- 試譯了一點並加入翻譯參考文章。目前的想法是將譯完的整個段落貼在一起，這樣 review 時比較容易確認語氣通順與否。希望可以在下週五前 online 啊！— May 30, 2014
-- 前幾天也嘗試翻譯了一些，並且調整了建議修改的部分提供參考，有任何問題歡迎提出討論！
+> **jo**
+> 試譯了一點並加入翻譯參考文章。目前的想法是將譯完的整個段落貼在一起，這樣 review 時比較容易確認語氣通順與否。希望可以在下週五前 online 啊！
+
+> **jeter**
+> 前幾天也嘗試翻譯了一些，並且調整了建議修改的部分提供參考，有任何問題歡迎提出討論！
