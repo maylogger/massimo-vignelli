@@ -1,5 +1,10 @@
-# Massimo Vignelli
-# 馬西莫·維涅里
+# Massimo Vignelli  
+馬西莫·維涅里
+
+Massimo Vignelli  
+From Wikipedia, the free encyclopedia
+
+url: https://en.wikipedia.org/wiki/Massimo_Vignelli
 
 ## 翻譯協作
 
